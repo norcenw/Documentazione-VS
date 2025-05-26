@@ -21,3 +21,7 @@ Repository Git che contiene la seguente documentazione tecnica del progetto Vert
     -Dimensionamenti di componenti a rischio
     -Messe in tavola
     -File word di test di sforzo simulati con SolidoWork
+
+  Link delle altre repository:
+
+  
